@@ -31,7 +31,7 @@ I am a Data-Driven Backend Developer and Data Scientist passionate about buildin
 
 ### 📈 GitHub Analytics
 
-![Yashit's GitHub stats](https://github-readme-stats.vercel.app/api?username=yashitchugh&show_icons=true&theme=dark&count_private=true)
+![Yashit's GitHub stats](https://github-readme-stats.vercel.app/api?username=yashitchugh&show_icons=true&theme=dark&count_private=true&hide_rank=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yashitchugh&layout=compact&theme=dark)
 
 ---
