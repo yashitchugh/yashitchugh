@@ -9,14 +9,12 @@ I am a Data-Driven Backend Developer and Data Scientist passionate about buildin
 
 | Category | Technologies & Skills |
 | :--- | :--- |
-| **Languages** | Python, JavaScript, HTML |
+| **Languages** | Python |
 | **Backend & APIs** | Django Backend, FastAPI |
 | **Data Engineering** | Data Cleaning, Pipeline Engineering |
 | **Data Science & ML** | Model Training, Data Analysis, Jupyter |
 | **Databases** | MongoDB |
-| **Cloud & DevOps** | AWS (Amazon Web Services) |
 | **Visualization** | Dashboards & Analytics |
-
 ---
 
 ### 🚀 What I Do
